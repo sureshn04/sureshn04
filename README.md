@@ -6,6 +6,7 @@
 -->
 <h2> About Me</h2>
 
+- 🥅 I like experimenting with new technologies.
 - 🔭 I’m currently working at Hashedin 
 - 🌱 I’m currently learning Scala, Akka and Go. 
 - 💬 Ask me about Sql, Java, JavaScript, Go 
@@ -35,3 +36,6 @@
 
 ### 📊 Stats
 ![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sureshn04&count_private=true&show_icons=true&hide_border=true)
+
+<i>Random joke for you! </i><br>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
